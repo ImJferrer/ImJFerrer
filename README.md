@@ -100,6 +100,7 @@
   [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/fiberlux-app/id6754546726)
     <br>
   <img src="assets/FiberluxAppBanner.png" alt="Banner_Fiberlux_App.png" />
+  <a href="https://www.linkedin.com/posts/fiberlux-conectividadempresarial-transformaciondigital-ugcPost-7465533196366036994-435k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpEcSABF7oPNvP4SeAH0a2d1lAl-3rTSRE">Vídeo Publicitario por Marketing.<a>
 
 - **Mi ZaaZ Perú**  
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.zaaz.mizaaz)
