@@ -72,6 +72,7 @@
 
 <a id="ultimos-logos"></a>
 ## 📌 Últimos logros
+- 4/09/26  | Lanzamiento oficial la Landing Page **OCA!**
 - 5/01/26  | Lanzamiento oficial de **Mi ZaaZ Perú** en Google Play
 - 4/11/25  | Lanzamiento oficial de **Fiberlux App** en App Store
 - 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
